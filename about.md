@@ -11,8 +11,8 @@ I am a librarian
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am Scholarly Communications Liaison at Fondren Library, Rice University. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[sk60@rice.edu](mailto:sk60@rice.edu)
