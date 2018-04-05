@@ -6,11 +6,8 @@ permalink: /about/
 
 I am a librarian
 
-# Big header
 
-## Not as big header
 
-*I am italics*
 
 ### More Information
 
